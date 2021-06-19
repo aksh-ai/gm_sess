@@ -1,0 +1,8 @@
+requests
+numpy
+pandas
+matplotlib
+tensorflow
+Flask
+Pillow
+opencv-python
